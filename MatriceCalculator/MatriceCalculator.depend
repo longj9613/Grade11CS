@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1453837146 source:e:\cs\matricecalculator\main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+	<iomanip>
+
+1453737100 source:f:\cs\matricecalculator\main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+
